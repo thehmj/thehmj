@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Himanshu Jain</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehmj&label=Profile%20views&color=ffffff&style=flat" alt="thehmj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehmj&label=Profile%20views&color=ffffff&style=flat-square" alt="thehmj" /> </p>
 
 - 👨‍💻 My Portfolio - [https://thehmj.github.io/portfolio](https://thehmj.github.io/portfolio)
 
