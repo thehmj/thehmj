@@ -1,22 +1,27 @@
 <p>
+<img align="left" height="100" src="https://github.com/thehmj/thehmj/blob/main/programming.png" />
 <h1 align="right">Hey 👋, I'm Himanshu Jain</h1>
 <h3 align="right">Web Developer</h3>
-<img align="right" width="500" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" /> </p>
+<img align="right" width="500" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" />
+</p>
 
-👨‍💻 My Portfolio - [https://thehmj.github.io/portfolio](https://thehmj.github.io/portfolio)
+👨‍💻 [https://thehmj.github.io/portfolio](https://thehmj.github.io/portfolio)
 
-<h3 align="left">Connect with me:</h3>
+![](https://komarev.com/ghpvc/?username=thehmj&label=Views&color=000000&style=flat-square)
+
+<h2 align="left">Connect</h2>
 <p align="left">
 <a href="https://linkedin.com/in/thehmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thehmj" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Coding Profiles</h3>
 <p align="left">
+<h2 align="left">Coding Profiles</h2>
 <a href="https://www.leetcode.com/himanshu4jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshu4jain" height="30" width="40" /></a>
 <a href="https://github.com/thehmj" target="blank"><img align="center" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="himanshu4jain" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+ 
+<h2 align="left">Languages and Tools</h2>
 <p align="left"> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> &nbsp;&nbsp;
@@ -39,5 +44,7 @@
   <br/>
 </p>
 
+***
 <img align="left" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=thehmj&" alt="thehmj"/>
+ <img align="left" height="100" src="https://github.com/thehmj/thehmj/blob/main/coding.gif" />
 <img align="right" height="180"  src="https://github-readme-stats.vercel.app/api/top-langs?username=thehmj&show_icons=true&locale=en&layout=compact" alt="thehmj" />
