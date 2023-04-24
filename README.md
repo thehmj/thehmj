@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thehmj&label=Profile%20views&color=0e75b6&style=flat" alt="thehmj" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://thehmj.github.io/portfolio](https://thehmj.github.io/portfolio)
+- 👨‍💻 My Portfolio - [https://thehmj.github.io/portfolio](https://thehmj.github.io/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
