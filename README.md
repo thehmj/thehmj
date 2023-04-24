@@ -1,14 +1,17 @@
 <h1 align="center">Hey 👋, I'm Himanshu Jain</h1>
 <h3 align="center">Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehmj&label=Profile%20views&color=0e75b6&style=flat" alt="thehmj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thehmj&label=Profile%20views&color=ffffff&style=flat" alt="thehmj" /> </p>
 
 - 👨‍💻 My Portfolio - [https://thehmj.github.io/portfolio](https://thehmj.github.io/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thehmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thehmj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/himanshu4jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="himanshu4jain" height="30" width="40" /></a>
+</p>
+<h3 align="left">Coding Profiles</h3>
+<p align="left">
+<a href="https://linkedin.com/in/thehmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thehmj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
