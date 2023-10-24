@@ -48,3 +48,5 @@
 <img align="left" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=thehmj&" alt="thehmj"/>
 <!--  <img align="left" height="100" src="https://github.com/thehmj/thehmj/blob/main/coding.gif" /> -->
 <img align="right" height="180"  src="https://github-readme-stats.vercel.app/api/top-langs?username=thehmj&show_icons=true&locale=en&layout=compact" alt="thehmj" />
+<img align="right" height="180"  src="https://thehmj.github.io/leetcode-stat-card/?username=himanshu4jain&theme=dark" alt="thehmj" />
+
