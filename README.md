@@ -1,7 +1,7 @@
 <p>
 <img align="left" height="100" src="https://github.com/thehmj/thehmj/blob/main/programming.png" />
 <h1 align="right">Hey 👋, I'm Himanshu Jain</h1>
-<h3 align="right">Web Developer</h3>
+<h3 align="right">Web and App Developer</h3>
 <img align="right" width="500" src="https://github.com/thehmj/thehmj/blob/main/Mcoder.gif" />
 </p>
 
