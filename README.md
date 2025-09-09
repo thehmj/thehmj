@@ -9,7 +9,7 @@
 
 ![](https://komarev.com/ghpvc/?username=thehmj&label=Views&color=000000&style=flat-square)
 
-<h2 align="left">Connect with Me</h2>
+<h2 align="left">Connect with Me :)</h2>
 <p align="left">
 <a href="https://linkedin.com/in/thehmj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thehmj" height="30" width="40" /></a>
 </p>
